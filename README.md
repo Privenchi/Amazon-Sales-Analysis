@@ -20,3 +20,9 @@ Retailers dominate the customer base, and most orders are fulfilled through Amaz
   - Pandas: Data manipulation and analysis.
   - Seaborn and Matplotlib: Data visualization.
   - Numpy: Numerical computations.
+## Dataset 🗂️
+The dataset contains Amazon sales data, including details such as:
+
+- Product Information: Categories, sizes, and types.
+- Customer Demographics: States where products are shipped.
+- Order Fulfillment: Methods used to process orders.
