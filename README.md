@@ -14,3 +14,9 @@ Insights into regional trends and product preferences.
 The business has a significant customer base in Maharashtra state.
 T-shirts are the most popular product, with medium (M) size being the preferred choice.
 Retailers dominate the customer base, and most orders are fulfilled through Amazon.
+## Technologies Used 🛠️
+- Python: For data analysis and visualization.
+- Libraries:
+-- Pandas: Data manipulation and analysis.
+-- Seaborn and Matplotlib: Data visualization.
+-- Numpy: Numerical computations.
