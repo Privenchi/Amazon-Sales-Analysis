@@ -35,3 +35,9 @@ The dataset contains Amazon sales data, including details such as:
    - Medium (M) size is the most preferred.
 - Order Fulfillment:
    - Amazon is the primary fulfillment method.
+## Visualization Examples 📊
+- Top Selling Product Categories
+   - ![Bar chart showing the most sold product categories]
+
+- Distribution by State
+    - ![Bar chart showing the states with the highest shipment counts]
