@@ -17,6 +17,6 @@ Retailers dominate the customer base, and most orders are fulfilled through Amaz
 ## Technologies Used 🛠️
 - Python: For data analysis and visualization.
 - Libraries:
--- Pandas: Data manipulation and analysis.
--- Seaborn and Matplotlib: Data visualization.
--- Numpy: Numerical computations.
+  - Pandas: Data manipulation and analysis.
+  - Seaborn and Matplotlib: Data visualization.
+  - Numpy: Numerical computations.
