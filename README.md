@@ -26,3 +26,12 @@ The dataset contains Amazon sales data, including details such as:
 - Product Information: Categories, sizes, and types.
 - Customer Demographics: States where products are shipped.
 - Order Fulfillment: Methods used to process orders.
+## Analysis Insights 📈
+- Sales by Product Type:
+  - T-shirts lead as the top-selling product.
+- Shipping States:
+  - Maharashtra has the highest number of orders shipped.
+- Size Preferences:
+   - Medium (M) size is the most preferred.
+- Order Fulfillment:
+   - Amazon is the primary fulfillment method.
